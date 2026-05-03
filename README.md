@@ -191,7 +191,7 @@ Solar panel → INA219 Vin+/Vin− → Load resistor → GND
 
 | Lab Setup | Live Measurement | MQTT Dashboard |
 |---|---|---|
-| ![Setup](docs/Ergebnis.jpg) | ![LCD](docs/measurement.png) | ![Dashboard](docs/solar_tracker-dashboard.png) |
+| ![Setup](docs/Ergebnis.jpg) | ![LCD](docs/measurement.png) | ![Dashboard](docs/solar tracker-dashboard.png) |
 
 ---
 
